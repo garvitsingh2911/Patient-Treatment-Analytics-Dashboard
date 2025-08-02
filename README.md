@@ -6,9 +6,13 @@
 🎯 Project Objective:
 
 This project analyzes a simulated dataset of 100 international patients seeking treatments in India. Using SQL and Python for data processing and Power BI for visualization, I derived insights about:
+
 .Booking trends
+
 .Patient demographics
+
 .Treatment cost distribution
+
 .Hospital popularity and patient ratings
 
 📁 Dataset Overview
@@ -61,8 +65,11 @@ Power BI: Created a dashboard combining all metrics into visual tiles.
 
 
 📌 How to Run
+
 1.Load the medtour_data.csv file into Python.
+
 2.Use the SQL scripts to extract and preprocess insights.
+
 3.Load cleaned data into Power BI to replicate the dashboard.
 
 
@@ -70,15 +77,21 @@ Power BI: Created a dashboard combining all metrics into visual tiles.
 📂 Files in This Repo
 
 medtour_data.csv — Raw dataset
+
 analysis_script.py — Python data analysis code
+
 queries.sql — SQL queries used for summarization
+
 mdtour_project.pdf — Final Power BI dashboard
+
 demo_video.mp4--data analysis on vs code
 
 
 🧠 Key Learnings
 -Creating ETL pipelines across tools
+
 -Understanding how to combine structured SQL logic with Python flexibility
+
 -Data visualization principles in Power BI
 
 
